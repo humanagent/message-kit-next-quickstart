@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@xmtp/message-kit": "^0.0.24-beta.0",
+    "@xmtp/message-kit": "^1.2.8",
     "dotenv": "^16.4.5",
     "ethers": "^6.13.3",
     "next": "14.2.14",
